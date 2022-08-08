@@ -1,4 +1,58 @@
-h{
-  color: yellow;
-  font-size: 66px;
+body{
+  font-size: 20px;
+  font-family:'Poppins',serif;
+  background-color: #f6f6f6;
+  
+}
+
+.navbar-collapse{
+justify-content: center;
+}
+
+.banner{
+  background-image: url('./Images/banenr.jpg');
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container{
+  text-align: center;
+  align-content: center;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.7)
+}
+
+#glance{
+  background-image:url('./Images/bg1.png') ;
+  height: 90vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.heading1{
+  color: aquamarine;
+}
+
+.container2{
+  margin-left: 200px;
+  padding-top: 100px;
+  margin-right: 700px;
+}
+
+#overview{
+  margin-left: 100px;
+  width: 40%;
+  margin-top: 100px;
+}
+
+.Stage-Heading{
+  text-align: center;
+  padding: 20px 20px;
+  margin-top: 100px;
+  background-color: beige;
+  font-size: 200px;
+  margin-bottom: 100px;
 }
